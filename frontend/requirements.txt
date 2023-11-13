@@ -1,0 +1,6 @@
+streamlit
+requests-aws4auth
+pandas
+wikipedia
+langchain
+boto3
